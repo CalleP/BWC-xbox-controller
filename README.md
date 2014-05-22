@@ -16,5 +16,5 @@ $ touch legopi/__init__.py
 
 $ sudo pip install websocket-client
 
-And place my script next to the downloaded file.
+And place my script next to the lego-pi folder file.
 
